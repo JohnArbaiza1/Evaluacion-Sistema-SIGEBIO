@@ -9,3 +9,15 @@ Base de datos relacional para la gestion de laboratorios de alta seguridad donde
 
 ## Diagrama ERD
 <img width="825" height="811" alt="2026-04-20 16_51_26-evaluacion – db_sigebio" src="https://github.com/user-attachments/assets/86d51ab5-525f-413a-9401-a1bd142157ca" />
+
+## 🛠️ Requisitos
+
+- PostgreSQL 17
+- Flyway (para ejecutar migraciones automáticamente)
+
+## 👥 Autores
+**Partner A**
+* John Elvis Arbaiza Velásquez  <a href="https://github.com/JohnArbaiza1" >JohnArbaiza1 </a>
+
+**Partner B**
+* Luis Emilio González Molina <a href="https://github.com/gnz-e" >gnz-e </a>   
