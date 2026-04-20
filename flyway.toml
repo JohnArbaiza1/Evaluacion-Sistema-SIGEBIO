@@ -1,0 +1,12 @@
+[environments.default]
+url = "jdbc:postgresql://localhost:5434/db_sigebio"
+user = "postgres"
+password = "admin123"
+
+[flyway]
+locations = [
+    "filesystem:sql/migrations",
+    "filesystem:sql/repeatable" 
+]
+
+encoding = "UTF-8"
