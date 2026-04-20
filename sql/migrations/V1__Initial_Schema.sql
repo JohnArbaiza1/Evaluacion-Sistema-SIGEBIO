@@ -27,7 +27,6 @@ CREATE TABLE equipos (
     nombre VARCHAR(100) NOT NULL,
     id_laboratorio INT NOT NULL,
     estado VARCHAR(50) NOT NULL,
-    ultima_revision DATE,
     responsable_mantenimiento VARCHAR(100)
 );
 
